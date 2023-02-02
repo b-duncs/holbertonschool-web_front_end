@@ -119,15 +119,5 @@ T
 $0x03-responsive_design/02-styles.css,1/c/1c41002575e2f698a88ba2abf7188d8e9af99ef0
 V
 &0x03-responsive_design/02-1-styles.css,4/6/467ee148e0a6f04a54ca8caf822c804da9c3c038
-T
-$0x03-responsive_design/04-index.html,8/c/8c89de5c71f081bddcbddcc2bb9579ceb51622a2
-T
-$0x03-responsive_design/05-index.html,d/a/da41e674c348b196b51f866efe12d09cbf7f097b
-T
-$0x03-responsive_design/06-index.html,a/d/adc9392146637a52de45f099bf79c27764f2bb56
-T
-$0x03-responsive_design/09-index.html,e/8/e80ab2e045ebfbc2c110ba59ccb8c5a535bf9b08
-T
-$0x03-responsive_design/10-index.html,1/6/169b13fef25ffa1d2454348819c90e531d13249d
 P
  0x03-responsive_design/README.md,5/e/5e1be65ee42cb303f1b7c69896dbc28010c9932c
