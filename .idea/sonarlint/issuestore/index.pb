@@ -43,3 +43,9 @@ U
 %0x01-CSS_advanced/styles/31-style.css,2/e/2e623f19b4845ef36b0abcc63b1772dd5a7077a0
 U
 %0x01-CSS_advanced/styles/32-style.css,8/8/8845b0ddd1ae07943261f8af6fc17155656afbb7
+L
+0x01-CSS_advanced/index.html,b/b/bb78bb11ac94db1bea8b8746fb79a45abe1970e7
+N
+0x02-developer_tools/README.md,7/7/77b7c02dc0950b36427e3fe0e3a7a10ececd72af
+T
+$0x02-developer_tools/3-button_styles,1/e/1e53ec1d3ede719eb21bcc90269a403dcf1a4b6e
