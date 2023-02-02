@@ -90,8 +90,6 @@ $0x03-responsive_design/03-styles.css,a/a/aa259829267b8c6076ffb7c7a1915356e3879
 T
 $0x03-responsive_design/04-styles.css,a/5/a5ac5611fd3d003d71f85f4d1da4b0fb733d3565
 T
-$0x03-responsive_design/05-styles.css,5/9/59ce582beef33d3a952b56577eb9c224c6d591cf
-T
 $0x03-responsive_design/06-styles.css,3/d/3d2f18cd084d7f13f55d2e2d02427539984bd22b
 T
 $0x03-responsive_design/08-styles.css,e/7/e726443b8b29b4efa2ac90ddfe983e046f299330
