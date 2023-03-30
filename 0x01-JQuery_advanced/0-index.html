@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+
+    <meta charset="utf-8" />
+    <title>Task 0</title>
+    <script src="https://code.jquery.com/jquery-latest.min.js"></script>
+    <script type="application/javascript">
+      var jqueryScript = document.createElement("script");
+      jqueryScript.src = "https://code.jquery.com/jquery-3.6.0.slim.min.js";
+
+      jqueryScript.onload = function() {
+        console.log("jQuery has been loaded correctly");
+      };
+
+      jqueryScript.onerror = function() {
+        console.log("jQuery has not been loaded correctly");
+      };
+      document.getElementsByTagName("head")[0].appendChild(jqueryScript);
+    </script>
+
+</head>
+
+<body>
+
+</body>
+
+</html>
