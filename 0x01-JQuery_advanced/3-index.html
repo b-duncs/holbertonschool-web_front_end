@@ -9,33 +9,21 @@
     <script type="application/javascript">
       $(document).ready(function () {
         function createFamilyTree() {
-          var table = $('<table>');
-          var headerRow = $('<tr>');
-          var firstNameHeader = $('<th>').text('Firstname');
-          var lastNameHeader = $('<th>').text('Lastname');
-          headerRow.append(firstNameHeader, lastNameHeader);
-          table.append(headerRow);
-
-          var first = $('<tr>');
-          var firstt = $('<td>').text('Guillaume');
-          var firsttt = $('<td>').text('Salva');
-          first.append(firstt, firsttt);
-          table.append(first);
-
-
-          var second = $('<tr>');
-          var secondd = $('<td>').text('Paulette');
-          var seconddd = $('<td>').text('Salva');
-          second.append(secondd, seconddd);
-          table.append(second);
-
-          var second = $('<tr>');
-          var secondd = $('<td>').text('Antoine');
-          var seconddd = $('<td>').text('Salva');
-          second.append(secondd, seconddd);
-          table.append(second);
-
-          table.appendTo('body');
+          $("body").append("<table>");
+          $("table").append("<thead>");
+          $("thead").append("<tr>");
+          $("tr").append("<th>", "<th>");
+          $("table").append("<tbody>");
+          $("tbody").append(["<tr>", "<tr>", "<tr>"]);
+          $("tbody tr").append("<td>", "<td>");
+          $("th").eq(0).text("Firstname");
+          $("th").eq(1).text("Lastname");
+          $("tbody tr td").eq(0).text("Guillaume");
+          $("tbody tr td").eq(1).text("Salva");
+          $("tbody tr td").eq(2).text("Paulette");
+          $("tbody tr td").eq(3).text("Salva");
+          $("tbody tr td").eq(4).text("Antoine");
+          $("tbody tr td").eq(5).text("Salva");
         }
         createFamilyTree();
       });
