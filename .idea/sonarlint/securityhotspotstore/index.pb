@@ -25,8 +25,6 @@ W
 ,0x02-Cookies_local_storage/package-lock.json,4/2/42153431bcc7027e3e791b7eab5e38cc8af1b298
 W
 '0x02-Cookies_local_storage/package.json,8/3/83a01c73539abd41b17e8fdd25dee4f8a7870b4a
-S
-#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
 W
 '0x02-Cookies_local_storage/src/index.js,d/9/d93e8b564b00d317f0ed84416ad4eb942a41432b
 W
@@ -77,11 +75,3 @@ S
 #0x00-Javascript_advanced/9-prime.js,a/d/ad796e6ee4f932a98efcb070c25893fd3bc56d3c
 N
 0x01-JQuery_advanced/README.md,3/f/3ffa30881410ea82884d513ef636bdf6e9cbcbc1
-Q
-!0x01-JQuery_advanced/2-index.html,3/6/3683856bcf4ef4a3a61db29a5cbc7d5ed62d84ff
-Q
-!0x01-JQuery_advanced/3-index.html,e/0/e0d5ff4bc116e7d5c0d505c4cea71ce75d66a8e5
-Q
-!0x01-JQuery_advanced/4-index.html,b/b/bb6a18647d43563208e127504b44f6db84aa4d71
-Q
-!0x01-JQuery_advanced/1-index.html,2/4/2430d15b8dfe13cc30d8c67b4d539a8107b5b28f
